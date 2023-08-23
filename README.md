@@ -1,16 +1,17 @@
-### Hi there 👋
+<a href="#"><img justify="center" align="right" src="https://github-readme-stats.vercel.app/api?username=rong-xiaoli&show_icons=true&include_all_commits=true" /></a>
+![Ver3-Profile-512x512](https://github.com/rong-xiaoli/rong-xiaoli/assets/58361774/c230edce-64f7-429f-b1ce-f77055dfff81)
+容小狸，没什么值得注意的。
 
-<!--
-**rong-xiaoli/rong-xiaoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+关于程序的问题，邮箱[hashnoob079@163.com](hashnoob079@163.com)
 
-Here are some ideas to get you started:
+GitHub: rong-xiaoli
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 语言 |有项目| 入门 | 了解 | 深入 |熟练|
+| ---- | ---- | ---- | ---- | ----|----|
+|C     |      |  √  |      |     |    |
+|C++   |      |  √  |      |     |    |
+|Python|      |     |      |     |    |
+|Java  |   √  |  √  |   √  |     |    |
+|C#    |   √  |  √  |   √  |     |    |
+
+如右上侧小组件所示，我是废物，但是如果不嫌弃的话，有什么要帮忙的，叫我一声应该就会答应了。
