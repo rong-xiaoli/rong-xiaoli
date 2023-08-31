@@ -1,4 +1,5 @@
-![[Ver3-Profile-512x512.png]]<a href="#"><img justify="center" align="right" src="https://github-readme-stats.vercel.app/api?username=rong-xiaoli&show_icons=true&include_all_commits=true" /></a>
+<a href="#"><img justify="center" align="right" src="https://github-readme-stats.vercel.app/api?username=rong-xiaoli&show_icons=true&include_all_commits=true" /></a>
+![Ver3-Profile-512x512](https://github.com/rong-xiaoli/rong-xiaoli/assets/58361774/33d8a2e0-0c38-4c0e-bba7-50948fa0ef15)
 
 
 容小狸，没什么值得注意的。
