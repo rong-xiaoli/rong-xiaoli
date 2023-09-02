@@ -1,5 +1,5 @@
 ![rong-xiaoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=rong-xiaoli)
-![Ver3-Profile-512x512](https://github.com/rong-xiaoli/rong-xiaoli/assets/58
+![Ver3-Profile-512x512](https://github.com/rong-xiaoli/rong-xiaoli/assets/58)
 容小狸，没什么值得注意的。
 
 关于程序的问题，邮箱[hashnoob079@163.com](hashnoob079@163.com)
