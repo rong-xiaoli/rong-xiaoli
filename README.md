@@ -1,7 +1,5 @@
-<a href="#"><img justify="center" align="right" src="https://github-readme-stats.vercel.app/api?username=rong-xiaoli&show_icons=true&include_all_commits=true" /></a>
-![Ver3-Profile-512x512](https://github.com/rong-xiaoli/rong-xiaoli/assets/58361774/33d8a2e0-0c38-4c0e-bba7-50948fa0ef15)
-
-
+![rong-xiaoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=rong-xiaoli)
+![Ver3-Profile-512x512](https://github.com/rong-xiaoli/rong-xiaoli/assets/58
 容小狸，没什么值得注意的。
 
 关于程序的问题，邮箱[hashnoob079@163.com](hashnoob079@163.com)
@@ -15,4 +13,5 @@ GitHub: rong-xiaoli
 |Python|      |     |      |     |    |    |
 |Java  |   √  |  √  |   √  |     |    |    |
 |C#    |   √  |  √  |   √  |     |    |    |
+![rong-xiaoli's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rong-xiaoli)
 如右上侧小组件所示，我是废物，但是如果不嫌弃的话，有什么要帮忙的，叫我一声应该就会答应了。
