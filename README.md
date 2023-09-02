@@ -1,6 +1,4 @@
----
-title: about
----
+
 ![rong-xiaoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=rong-xiaoli)
 ![rong-xiaoli's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rong-xiaoli)
 
