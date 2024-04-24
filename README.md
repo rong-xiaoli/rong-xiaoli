@@ -1,4 +1,4 @@
-![rong-xiaoli's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rong-xiaoli&hide=javascript,html,css)
+![rong-xiaoli's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rong-xiaoli&layout=donut&hide=javascript,html,css)
 ![rong-xiaoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=rong-xiaoli)
 ---
 ![Static Badge](https://img.shields.io/badge/code_quality-sucks-red)
