@@ -1,8 +1,8 @@
-![rong-xiaoli's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rong-xiaoli&layout=donut&hide=javascript,html,css)
-![rong-xiaoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=rong-xiaoli)
----
 ![Static Badge](https://img.shields.io/badge/code_quality-sucks-red)
 
+![rong-xiaoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=rong-xiaoli)
+![rong-xiaoli's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rong-xiaoli&layout=donut&hide=javascript,html,css)
+---
 容小狸，没什么值得注意的。
 
 连script都不会用的kid。
@@ -15,7 +15,7 @@ GitHub: rong-xiaoli
 | ---- | ---- | --- | ---- | ----|----|
 |C     |      |  √  |      |     |    |
 |C++   |      |  √  |      |     |    |
-|Python|      |     |      |     |    |
+|Python|      |  √  |      |     |    |
 |Java  |   √  |  √  |   √  |     |    |
 |C#    |   √  |  √  |   √  |     |    |
 
