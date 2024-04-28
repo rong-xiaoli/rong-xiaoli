@@ -10,7 +10,7 @@ jobs:
     name: Update README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@v0.3.0
         with:
           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
@@ -22,3 +22,4 @@ jobs:
           TIME_RANGE: last_30_days
           # 显示时间
           SHOW_TIME: true
+          
