@@ -1,7 +1,4 @@
 ![Static Badge](https://img.shields.io/badge/code_quality-sucks-red)
-
-![rong-xiaoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=rong-xiaoli)
-![rong-xiaoli's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rong-xiaoli&layout=donut&hide=javascript,html,css)
 ---
 容小狸，没什么值得注意的。
 
@@ -20,3 +17,9 @@ GitHub: rong-xiaoli
 |C#    |   √  |  √  |   √  |     |    |
 
 如小组件所示，我是废物，但是如果不嫌弃的话，有什么要帮忙的，叫我一声应该就会答应了。
+---
+![rong-xiaoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=rong-xiaoli)
+![rong-xiaoli's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rong-xiaoli&layout=donut&hide=javascript,html,css)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
