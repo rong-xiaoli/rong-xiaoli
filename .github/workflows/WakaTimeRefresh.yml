@@ -1,25 +1,19 @@
-name: WakaTime Readme
+name: Waka Readme
 
 on:
-  schedule:
-    - cron: '0 20 * * *'
+  # for manual workflow trigger
   workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * *"
 
 jobs:
   update-readme:
-    name: Update README
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v0.3.0
+      - uses: athul/waka-readme@master # this action name
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
-          # 提交消息
           COMMIT_MESSAGE: Update Wakapi stats
-          # 图形
-          BLOCKS: "⬜🟨🟩"
-          # 时间范围
           TIME_RANGE: last_30_days
-          # 显示时间
-          SHOW_TIME: true
-          
+          BLOCKS: "⬜🟨🟩"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
