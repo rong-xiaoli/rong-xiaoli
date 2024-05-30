@@ -38,9 +38,8 @@ Blog: [容小狸的博客 链接](https://blog.rongxiaoli.top)
 <!--START_SECTION:waka-->
 
 ```txt
-C#               39 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜   86.89 %
-Markdown         5 mins          🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.11 %
-GitIgnore file   0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
+Markdown         5 mins          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   99.98 %
+GitIgnore file   0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.02 %
 ```
 
 <!--END_SECTION:waka-->
