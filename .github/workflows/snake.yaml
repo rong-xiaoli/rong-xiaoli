@@ -1,4 +1,5 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
+# Notice: source is: https://github.com/NobleMajo/NobleMajo, this small wiget is very funny. 
 
 name: Generate Snake
 
