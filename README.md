@@ -1,3 +1,5 @@
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ![Static Badge](https://img.shields.io/badge/code_quality-sucks-red)
 
 个人介绍
