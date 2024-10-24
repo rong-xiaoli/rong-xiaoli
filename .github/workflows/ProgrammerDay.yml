@@ -1,0 +1,13 @@
+name: HappyProgrammersDay
+
+on:
+  schedule:
+    - cron: "24 2 24 10 *"
+  workflow_dispatch:
+jobs: 
+  update-readme:
+    name: "Happy Programmer's day!"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Happy Programmer's day!" 
+        run: echo "Let's celebrate 10.24 Programmer's day!"
