@@ -48,6 +48,7 @@ Markdown   1 min           🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜�
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
 </p>
+
 <!-- Source: https://github.com/NobleMajo/NobleMajo -->
 <!--START_SECTION:activity-->
 1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/40474f47cbab7ee9d1ec716af6281551c8db7630)
