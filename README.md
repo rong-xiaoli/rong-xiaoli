@@ -51,14 +51,14 @@ Markdown   1 min           🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜�
 
 <!-- Source: https://github.com/NobleMajo/NobleMajo -->
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/40474f47cbab7ee9d1ec716af6281551c8db7630)
+1. 📝 Committed to a private repo
 2. 📝 Committed to a private repo
-3. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/67bf2536166d0e01e4de9455e9abfcc26fda3007)
-4. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/c7187c60e21757d467a74b9867d7749ebdec366f)
-5. 📝 Committed to [rong-xiaoli/bettergi-scripts-list](https://github.com/rong-xiaoli/bettergi-scripts-list/commit/c3e3167cc830615e513cc6dc75a4132ae2983638)
-6. 🗣 Commented on issue [#18](https://github.com/babalae/bettergi-scripts-list/issues/18) in [babalae/bettergi-scripts-list](https://github.com/babalae/bettergi-scripts-list): [View Comment](https://github.com/babalae/bettergi-scripts-list/issues/18#issuecomment-2421999141)
-7. 📝 Committed to [rong-xiaoli/bettergi-scripts-list](https://github.com/rong-xiaoli/bettergi-scripts-list/commit/2051fe373ea237e9e249c0dc371d9086f5bd80aa)
-8. 🗣 Commented on issue [#18](https://github.com/babalae/bettergi-scripts-list/issues/18) in [babalae/bettergi-scripts-list](https://github.com/babalae/bettergi-scripts-list): [View Comment](https://github.com/babalae/bettergi-scripts-list/issues/18#issuecomment-2421983991)
-9. 📝 Committed to [rong-xiaoli/bettergi-scripts-list](https://github.com/rong-xiaoli/bettergi-scripts-list/commit/df9ed9e863e97669cb66a13c151064c811875d65)
-10. 📝 Committed to [rong-xiaoli/bettergi-scripts-list](https://github.com/rong-xiaoli/bettergi-scripts-list/commit/445325f11d90ac1cf39f1527c378e6fa56fe9497)
+3. 📝 Committed to a private repo
+4. 📝 Committed to a private repo
+5. 📝 Committed to a private repo
+6. 🔀 Merged a PR in a private repo
+7. 🗑️ Deleted a branch `dependabot/npm_and_yarn/hexo-excerpt-1.3.1` in a private repo
+8. 🔀 Merged a PR in a private repo
+9. 🗑️ Deleted a branch `dependabot/npm_and_yarn/hexo-generator-index-4.0.0` in a private repo
+10. 🔀 Merged a PR in a private repo
 <!--END_SECTION:activity-->
