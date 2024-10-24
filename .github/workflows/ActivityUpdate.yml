@@ -1,4 +1,4 @@
-name: ActivityUpdate
+name: Update activity
 on: 
   schedule:
     - cron: "0 20 * * *" 
