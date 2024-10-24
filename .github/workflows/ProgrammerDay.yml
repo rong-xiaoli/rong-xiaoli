@@ -1,4 +1,4 @@
-name: HappyProgrammersDay
+name: "Happy Programmer's Day"
 
 on:
   schedule:
