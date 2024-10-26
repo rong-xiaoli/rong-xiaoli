@@ -1,7 +1,7 @@
 name: Update activity
 on: 
   schedule:
-    - cron: "0 20/8 * * *" 
+    - cron: "0 20/4 * * *" 
   workflow_dispatch:
 jobs: 
   ActivityUpdate:
