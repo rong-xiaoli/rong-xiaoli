@@ -42,6 +42,7 @@ Blog: [容小狸的博客 链接](https://blog.rongxiaoli.top)
 Java       3 mins          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜   64.39 %
 Markdown   1 min           🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.61 %
 ```
+
 <!--END_SECTION:waka-->
 
 <p align="center" style="width: 100%;">
