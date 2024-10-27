@@ -55,14 +55,14 @@ Markdown   1 min           🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android)
-2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/9eee9353df02128de89135f1982755de8909ece4)
-3. 🗣 Commented on issue [#1129](https://github.com/shiftkey/desktop/issues/1129) in [shiftkey/desktop](https://github.com/shiftkey/desktop): [View Comment](https://github.com/shiftkey/desktop/issues/1129#issuecomment-2439387349)
+1. 📝 Committed to a private repo
+2. 📝 Committed to a private repo
+3. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/7353d8ef8ed100896eab0befbd80a6b0ff616ba5)
 4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
-6. 📝 Committed to a private repo
-7. 📝 Committed to a private repo
-8. 📝 Committed to a private repo
-9. 🔀 Merged a PR in a private repo
-10. 🗑️ Deleted a branch `dependabot/npm_and_yarn/hexo-excerpt-1.3.1` in a private repo
+6. 📝 Committed to [rong-xiaoli/Linux-OpenSource-Joke](https://github.com/rong-xiaoli/Linux-OpenSource-Joke/commit/6b0a4b981408acaaa9e1b0c67a57cba7cb31e1c8)
+7. 🗣 Commented on issue [#1017](https://github.com/torvalds/linux/issues/1017) in [torvalds/linux](https://github.com/torvalds/linux): [View Comment](https://github.com/torvalds/linux/issues/1017#issuecomment-2440040365)
+8. 🗣 Commented on issue [#1020](https://github.com/torvalds/linux/issues/1020) in [torvalds/linux](https://github.com/torvalds/linux): [View Comment](https://github.com/torvalds/linux/issues/1020#issuecomment-2439852322)
+9. 📝 Committed to [rong-xiaoli/Linux-OpenSource-Joke](https://github.com/rong-xiaoli/Linux-OpenSource-Joke/commit/96ce3d3e01275875b5a4c3123d77ef8cf44fa65a)
+10. 📝 Committed to [rong-xiaoli/Linux-OpenSource-Joke](https://github.com/rong-xiaoli/Linux-OpenSource-Joke/commit/214f91de447358ff79174da8acac025730f920be)
 <!--END_SECTION:activity-->
