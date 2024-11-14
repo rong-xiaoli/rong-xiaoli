@@ -64,8 +64,8 @@ HTML       4 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
 6. 📝 Committed to a private repo
-7. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/698463b20edad41d1c4ffd21381b35bb6a1d2710)
-8. undefined
+7. 📝 Committed to a private repo
+8. 📝 Committed to a private repo
 9. 📝 Committed to a private repo
-10. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/1148eca00f0bb6a91e309b95451c298a806c9fae)
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
