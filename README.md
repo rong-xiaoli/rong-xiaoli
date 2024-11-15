@@ -3,13 +3,13 @@
 
 个人介绍
 ---
-容小狸，没什么值得注意的。
+我是容小狸，一个对编程有点兴趣的人。对自己编程技术完全没自信，又菜又爱玩。
 
-连script都不会用的kid。
+> \- 你是程序员吗？- 我觉得我是。
 
-关于我的程序的问题，邮箱[hashnoob079@163.com](hashnoob079@163.com)
+关于我的程序的问题，邮箱[hashnoob079@163.com](mailto:容小狸<hashnoob079@163.com>)
 
-GitHub: [rong-xiaoli 链接](https://github.com/rong-xiaoli)
+GitHub: [rong-xiaoli 个人主页](https://github.com/rong-xiaoli)
 
 Blog: [容小狸的博客 链接](https://blog.rongxiaoli.top)
 
