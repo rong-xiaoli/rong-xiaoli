@@ -49,7 +49,7 @@ Markdown         18 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 <p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/rong-xiaoli/rong-xiaoli/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
 </p>
 
 <!-- Source: https://github.com/NobleMajo/NobleMajo -->
