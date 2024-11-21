@@ -58,14 +58,14 @@ Markdown         22 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 📝 Committed to a private repo
-3. 📝 Committed to a private repo
-4. 📝 Committed to a private repo
-5. 📝 Committed to a private repo
+1. 📥 Opened [PR #26](https://github.com/rong-xiaoli/Elysia/pull/26) in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
+2. ➕ Created a new branch [`maintain/github/codespace-container`](https://github.com/rong-xiaoli/Elysia/tree/maintain/github/codespace-container) in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
+3. 🗑️ Deleted a branch `maintain/github/LICENCE` in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
+4. 📝 Committed to [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia/commit/3897b3911f45813064795f5739d5ed769893cbc1)
+5. 🔀 Merged [PR #25](https://github.com/rong-xiaoli/Elysia/pull/25) in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
 6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
-8. 📝 Committed to a private repo
-9. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/07c979e29345d17adcf7c10988df2cd1959e8fbb)
-10. 📥 Opened [PR #25](https://github.com/rong-xiaoli/Elysia/pull/25) in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
+8. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/3014774aa649c3e0630c38ec067a11a079a40901)
+9. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/387593eb75f0b902c3becd0970da8a7f6ed4c34b)
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
