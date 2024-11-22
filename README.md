@@ -1,5 +1,5 @@
-
 ![Static Badge](https://img.shields.io/badge/code_quality-sucks-red)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frong-xiaoli%2Frong-xiaoli.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frong-xiaoli%2Frong-xiaoli?ref=badge_shield)
 
 个人介绍
 ---
@@ -69,3 +69,7 @@ YAML             1 hr 4 mins     🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 9. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/387593eb75f0b902c3becd0970da8a7f6ed4c34b)
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frong-xiaoli%2Frong-xiaoli.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frong-xiaoli%2Frong-xiaoli?ref=badge_large)
