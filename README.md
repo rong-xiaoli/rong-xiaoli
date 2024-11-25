@@ -59,14 +59,14 @@ Markdown          46 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)
-2. 🗑️ Deleted a branch `maintain/github/greetings-update` in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
-3. 📝 Committed to [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia/commit/f41c0472cb81c0d8f71d0a4131e6c9e7d88fdfba)
-4. 🔀 Merged [PR #32](https://github.com/rong-xiaoli/Elysia/pull/32) in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
-5. 📝 Committed to [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia/commit/1b46fdfafebc1376668d4eefd84ed01208606e0f)
-6. 🗑️ Deleted a branch `maintain/github/repo-stats` in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
-7. 📝 Committed to [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia/commit/1b46fdfafebc1376668d4eefd84ed01208606e0f)
-8. 🔀 Merged [PR #31](https://github.com/rong-xiaoli/Elysia/pull/31) in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
-9. 📥 Opened [PR #32](https://github.com/rong-xiaoli/Elysia/pull/32) in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
-10. 📝 Committed to [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia/commit/a67a9dd825977edcbf3e0ad953b300b49c758233)
+1. 📝 Committed to [rong-xiaoli/osu-wiki-CN](https://github.com/rong-xiaoli/osu-wiki-CN/commit/b017d86d12573609f6008a81e5cc9764b483412b)
+2. 📝 Committed to [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia/commit/6ff17dd9c575527414e293772291e4fad41fbe23)
+3. 📝 Committed to [rong-xiaoli/osu-wiki-CN](https://github.com/rong-xiaoli/osu-wiki-CN/commit/e71dd766821a0c38ada511145aea4c74f5c49407)
+4. 🔀 Merged [PR #1](https://github.com/rong-xiaoli/osu-wiki-CN/pull/1) in [rong-xiaoli/osu-wiki-CN](https://github.com/rong-xiaoli/osu-wiki-CN)
+5. 📥 Opened [PR #1](https://github.com/rong-xiaoli/osu-wiki-CN/pull/1) in [rong-xiaoli/osu-wiki-CN](https://github.com/rong-xiaoli/osu-wiki-CN)
+6. 📝 Committed to [rong-xiaoli/osu-wiki-CN](https://github.com/rong-xiaoli/osu-wiki-CN/commit/ce8f12fdd49307af2b5526f887bbf9ca8914aa43)
+7. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/3213c495358286bea79922a49eb53e57c337ffd9)
+8. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/5cef5158d993d733147974b3f64a6d5fe95ef414)
+9. 🗣 Commented on issue [#12479](https://github.com/ppy/osu-wiki/issues/12479) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki): [View Comment](https://github.com/ppy/osu-wiki/issues/12479#issuecomment-2498245528)
+10. 🗣 Commented on issue [#12479](https://github.com/ppy/osu-wiki/issues/12479) in [ppy/osu-wiki](https://github.com/ppy/osu-wiki): [View Comment](https://github.com/ppy/osu-wiki/issues/12479#issuecomment-2498238071)
 <!--END_SECTION:activity-->
