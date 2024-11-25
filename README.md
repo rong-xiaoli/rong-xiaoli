@@ -36,6 +36,7 @@ Blog: [容小狸的博客 链接](https://blog.rongxiaoli.top)
 
 ![rong-xiaoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=rong-xiaoli)
 ![rong-xiaoli's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rong-xiaoli&layout=donut&hide=javascript,html,css)
+[![Copied from CloneWith](https://github-profile-trophy.vercel.app/?username=rong-xiaoli&theme=dark)](https://github.com/CloneWith)
 <!--START_SECTION:waka-->
 
 ```txt
