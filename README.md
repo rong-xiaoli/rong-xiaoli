@@ -1,11 +1,11 @@
 
 ![Static Badge](https://img.shields.io/badge/code_quality-sucks-red)
 
+> \- 你是程序员吗？- 我觉得我是。
+
 个人介绍
 ---
 我是容小狸，一个对编程有点兴趣的人。对自己编程技术完全没自信，又菜又爱玩。
-
-> \- 你是程序员吗？- 我觉得我是。
 
 关于我的程序的问题，邮箱[hashnoob079@163.com](mailto:容小狸<hashnoob079@163.com>)
 
