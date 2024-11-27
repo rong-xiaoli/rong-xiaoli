@@ -63,14 +63,14 @@ Markdown          46 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/199bc0b291cf66f0ce225a5c79cad746e85f5ad7)
-2. 📝 Committed to a private repo
-3. 📝 Committed to a private repo
-4. 📝 Committed to a private repo
-5. 📝 Committed to [rong-xiaoli/osu-wiki-CN](https://github.com/rong-xiaoli/osu-wiki-CN/commit/b017d86d12573609f6008a81e5cc9764b483412b)
-6. 📝 Committed to [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia/commit/6ff17dd9c575527414e293772291e4fad41fbe23)
-7. 📝 Committed to [rong-xiaoli/osu-wiki-CN](https://github.com/rong-xiaoli/osu-wiki-CN/commit/e71dd766821a0c38ada511145aea4c74f5c49407)
-8. 🔀 Merged [PR #1](https://github.com/rong-xiaoli/osu-wiki-CN/pull/1) in [rong-xiaoli/osu-wiki-CN](https://github.com/rong-xiaoli/osu-wiki-CN)
-9. 📥 Opened [PR #1](https://github.com/rong-xiaoli/osu-wiki-CN/pull/1) in [rong-xiaoli/osu-wiki-CN](https://github.com/rong-xiaoli/osu-wiki-CN)
-10. 📝 Committed to [rong-xiaoli/osu-wiki-CN](https://github.com/rong-xiaoli/osu-wiki-CN/commit/ce8f12fdd49307af2b5526f887bbf9ca8914aa43)
+1. ❌ Closed an issue [#12](https://github.com/rong-xiaoli/Elysia/issues/12) in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
+2. 🗑️ Deleted a branch `maintain/github/codespace-container` in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
+3. 🗑️ Deleted a branch `feat/daily-sign` in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
+4. 📝 Committed to [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia/commit/e9a2068147f68f9f63ebfd0c830d25ff921cb02f)
+5. 🔀 Merged [PR #33](https://github.com/rong-xiaoli/Elysia/pull/33) in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
+6. 📝 Committed to [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia/commit/970e007a3e35fdbb90800769a47f6f1babe49967)
+7. 🗣 Commented on a review of [PR #33](https://github.com/rong-xiaoli/Elysia/pull/33) in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia): [View Comment](https://github.com/rong-xiaoli/Elysia/pull/33#pullrequestreviewcomment-1860205988)
+8. 🔎 Reviewed [PR #33](https://github.com/rong-xiaoli/Elysia/pull/33) in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
+9. ❌ Closed [PR #26](https://github.com/rong-xiaoli/Elysia/pull/26) in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia)
+10. 🗣 Commented on issue [#33](https://github.com/rong-xiaoli/Elysia/issues/33) in [rong-xiaoli/Elysia](https://github.com/rong-xiaoli/Elysia): [View Comment](https://github.com/rong-xiaoli/Elysia/issues/33#issuecomment-2503225831)
 <!--END_SECTION:activity-->
