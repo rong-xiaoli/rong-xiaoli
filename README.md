@@ -63,14 +63,14 @@ Markdown          53 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/aac4fb5215fcc8cbe0294d0929b71afb339965ed)
-2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/95df5cd19b013fd45ef07ede234e9b497b30a9f4)
-3. ❌ Closed an issue [#42](https://github.com/rong-xiaoli/ArisuBot/issues/42) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-4. ➕ Created a new branch [`rong-xiaoli`](https://github.com/rong-xiaoli/ArisuBot/tree/rong-xiaoli) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-5. 🗑️ Deleted a branch `rong-xiaoli` in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-6. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/6b11bd22927f7ea75fa6db6bdbd9a681d49b7160)
-7. 🔀 Merged [PR #46](https://github.com/rong-xiaoli/ArisuBot/pull/46) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-8. 🗣 Commented on a review of [PR #46](https://github.com/rong-xiaoli/ArisuBot/pull/46) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot): [View Comment](https://github.com/rong-xiaoli/ArisuBot/pull/46#pullrequestreviewcomment-1863860809)
-9. 🗣 Commented on a review of [PR #46](https://github.com/rong-xiaoli/ArisuBot/pull/46) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot): [View Comment](https://github.com/rong-xiaoli/ArisuBot/pull/46#pullrequestreviewcomment-1863869784)
-10. 🗣 Commented on a review of [PR #46](https://github.com/rong-xiaoli/ArisuBot/pull/46) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot): [View Comment](https://github.com/rong-xiaoli/ArisuBot/pull/46#pullrequestreviewcomment-1863859362)
+1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/8dd776d4c217a62c871e5c7767b73afb51825c64)
+2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/aac4fb5215fcc8cbe0294d0929b71afb339965ed)
+3. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/95df5cd19b013fd45ef07ede234e9b497b30a9f4)
+4. ❌ Closed an issue [#42](https://github.com/rong-xiaoli/ArisuBot/issues/42) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+5. ➕ Created a new branch [`rong-xiaoli`](https://github.com/rong-xiaoli/ArisuBot/tree/rong-xiaoli) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+6. 🗑️ Deleted a branch `rong-xiaoli` in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+7. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/6b11bd22927f7ea75fa6db6bdbd9a681d49b7160)
+8. 🔀 Merged [PR #46](https://github.com/rong-xiaoli/ArisuBot/pull/46) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+9. 🗣 Commented on a review of [PR #46](https://github.com/rong-xiaoli/ArisuBot/pull/46) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot): [View Comment](https://github.com/rong-xiaoli/ArisuBot/pull/46#pullrequestreviewcomment-1863860809)
+10. 🗣 Commented on a review of [PR #46](https://github.com/rong-xiaoli/ArisuBot/pull/46) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot): [View Comment](https://github.com/rong-xiaoli/ArisuBot/pull/46#pullrequestreviewcomment-1863869784)
 <!--END_SECTION:activity-->
