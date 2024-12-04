@@ -36,8 +36,6 @@ Blog: [容小狸的博客 链接](https://blog.rongxiaoli.top)
 ![rong-xiaoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=rong-xiaoli)
 ![rong-xiaoli's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rong-xiaoli&layout=donut&hide=javascript,html,css)
 [![Copied from CloneWith](https://github-profile-trophy.vercel.app/?username=rong-xiaoli&theme=dark)](https://github.com/CloneWith)
-
-[![Source here](https://komarev.com/ghpvc/?username=rong-xiaoli)](https://github.com/antonkomarev/github-profile-views-counter)
 <!--START_SECTION:waka-->
 
 ```txt
@@ -54,6 +52,7 @@ Markdown          53 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/rong-xiaoli/rong-xiaoli/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="rong-xiaoli" />
 </p>
 
+[![Source here](https://komarev.com/ghpvc/?username=rong-xiaoli&abbreviated=true)](https://github.com/antonkomarev/github-profile-views-counter)
 <!-- Source: https://github.com/NobleMajo/NobleMajo -->
 
 最近活动
