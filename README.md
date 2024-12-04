@@ -1,4 +1,3 @@
-
 ![Static Badge](https://img.shields.io/badge/code_quality-sucks-red)
 
 > \- 你是程序员吗？- 我觉得我是。
@@ -41,6 +40,7 @@ Blog: [容小狸的博客 链接](https://blog.rongxiaoli.top)
 You are the... [![Copied from CloneWith](http://profile-counter.glitch.me/rong-xiaoli/count.svg)](https://github.com/CloneWith)
 
 ...th visitor here. 
+[![Source here](https://komarev.com/ghpvc/?username=rong-xiaoli)](https://github.com/antonkomarev/github-profile-views-counter)
 <!--START_SECTION:waka-->
 
 ```txt
