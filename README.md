@@ -59,14 +59,14 @@ Markdown          58 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/0fd561008df8348caba5970427026463dabbcccd)
-2. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/1a869f6e85961b5687d51cc807e36beb9e0d66aa)
-3. 📥 Opened [PR #53](https://github.com/rong-xiaoli/ArisuBot/pull/53) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-4. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/bfba8261701ecdd74067546e857d3a3f258b5113)
-5. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/8416aa9e3008535bba8b80e342d0bf18ddb00603)
-6. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/820a6cfcfeb2a4d957bc438a565f7f2b782b1851)
-7. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/47f708a48496f8f0e7faafbd959ecf7a28e5b7de)
-8. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/4e43c01a527da9363f44272cf783c80f44884f32)
-9. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/7ecd4432c657342145f37ed5ce0dbed2f843593b)
-10. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/8a2357f9d03eb78dddd127f48a6d50994d56b28e)
+1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/cd7705a71d2e3ef463cb891914b6c875902fd647)
+2. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/0a6fcf747b613f0ce701dd26ceb6d3696382dcc5)
+3. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/c7c64aba633da5b0859ef47d1e2be0711a1fbc2d)
+4. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/f2d70cfface93e99f17b29672371b41757d58d87)
+5. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/0fd561008df8348caba5970427026463dabbcccd)
+6. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/1a869f6e85961b5687d51cc807e36beb9e0d66aa)
+7. 📥 Opened [PR #53](https://github.com/rong-xiaoli/ArisuBot/pull/53) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+8. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/bfba8261701ecdd74067546e857d3a3f258b5113)
+9. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/8416aa9e3008535bba8b80e342d0bf18ddb00603)
+10. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/820a6cfcfeb2a4d957bc438a565f7f2b782b1851)
 <!--END_SECTION:activity-->
