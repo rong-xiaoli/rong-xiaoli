@@ -1,14 +1,16 @@
+**我是容小狸，一只小狐狸**
+---
+
 ![Static Badge](https://img.shields.io/badge/code_quality-sucks-red)
+[![Source here](https://komarev.com/ghpvc/?username=rong-xiaoli&abbreviated=true)](https://github.com/antonkomarev/github-profile-views-counter)
 
 > \- 你是程序员吗？- 我觉得我是。
 
 个人介绍
 ---
-我是容小狸，一个对编程有点兴趣的人。对自己编程技术完全没自信，又菜又爱玩。
+我是容小狸，一个对编程有点兴趣的人。对自己编程技术完全没自信，又菜又爱玩。主要方向是后端，喜欢捯饬一些小玩意儿。
 
-关于我的程序的问题，邮箱[hashnoob079@163.com](mailto:容小狸<hashnoob079@163.com>)
-
-GitHub: [rong-xiaoli 个人主页](https://github.com/rong-xiaoli)
+关于我的程序的问题，请使用邮箱[hashnoob079@163.com](mailto:容小狸<hashnoob079@163.com>)
 
 Blog: [容小狸的博客 链接](https://blog.rongxiaoli.top)
 
@@ -32,10 +34,12 @@ Blog: [容小狸的博客 链接](https://blog.rongxiaoli.top)
 状态和统计
 ---
 如小组件所示，我是废物，但是如果不嫌弃的话，有什么要帮忙的，叫我一声应该就会答应了。
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rong-xiaoli">
 
-![rong-xiaoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=rong-xiaoli)
-![rong-xiaoli's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rong-xiaoli&layout=donut&hide=javascript,html,css)
-[![Copied from CloneWith](https://github-profile-trophy.vercel.app/?username=rong-xiaoli&theme=dark)](https://github.com/CloneWith)
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=rong-xiaoli&column=5&theme=dark&no-frame=true">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rong-xiaoli&hide=javascript,html,css">
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -52,7 +56,6 @@ textmate          36 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/rong-xiaoli/rong-xiaoli/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="rong-xiaoli" />
 </p>
 
-[![Source here](https://komarev.com/ghpvc/?username=rong-xiaoli&abbreviated=true)](https://github.com/antonkomarev/github-profile-views-counter)
 <!-- Source: https://github.com/NobleMajo/NobleMajo -->
 
 最近活动
