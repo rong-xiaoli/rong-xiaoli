@@ -62,14 +62,14 @@ textmate   24 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/c5d3d2e58e366d878c78488a7c2e65611c5df514)
-2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/143643f0445a23d5a909be0b1e41c603956a01e3)
-3. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/ce8196df10aa676ee3b6279bf1da0ccf186d0da8)
-4. 🆕 Opened an issue [#64](https://github.com/rong-xiaoli/ArisuBot/issues/64) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-5. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/33044a20ebcf17b4684aff5836261e48306e6762)
-6. ➕ Created a new branch [`feat/EmergencyStop`](https://github.com/rong-xiaoli/ArisuBot/tree/feat/EmergencyStop) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-7. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/de933a58fb866fb288f82e8d1ed8fdfe65ab3838)
+1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/223e83c1570b0fb3988a5d79cba48c94c7af281c)
+2. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/c5d3d2e58e366d878c78488a7c2e65611c5df514)
+3. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/143643f0445a23d5a909be0b1e41c603956a01e3)
+4. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/ce8196df10aa676ee3b6279bf1da0ccf186d0da8)
+5. 🆕 Opened an issue [#64](https://github.com/rong-xiaoli/ArisuBot/issues/64) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+6. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/33044a20ebcf17b4684aff5836261e48306e6762)
+7. ➕ Created a new branch [`feat/EmergencyStop`](https://github.com/rong-xiaoli/ArisuBot/tree/feat/EmergencyStop) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
 8. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/de933a58fb866fb288f82e8d1ed8fdfe65ab3838)
-9. 🗑️ Deleted a branch `dev` in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-10. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/a3d31125d4d01e8454469e01c42b7b5def27f808)
+9. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/de933a58fb866fb288f82e8d1ed8fdfe65ab3838)
+10. 🗑️ Deleted a branch `dev` in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
 <!--END_SECTION:activity-->
