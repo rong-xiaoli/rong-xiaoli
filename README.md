@@ -62,14 +62,14 @@ Groovy            5 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/97bcfb82d96cd640184814364f8d64789ea31c06)
-2. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/8bf9e461367af40e78accb4114498e283a19ca49)
-3. 🗣 Commented on issue [#67](https://github.com/rong-xiaoli/ArisuBot/issues/67) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot): [View Comment](https://github.com/rong-xiaoli/ArisuBot/issues/67#issuecomment-2582202814)
-4. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/70db74fdd8f02e2e437cfdc82ac898148956999f)
-5. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/449733188a2b9a5ad07726d7fbf491ab9dd386ee)
-6. 📝 Committed to a private repo
-7. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/1002f3908d8190919b6c2100feccc177c85c626b)
-8. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/3bb8807028018c4cff73ea71c3c918e9981972db)
-9. 🗣 Commented on issue [#67](https://github.com/rong-xiaoli/ArisuBot/issues/67) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot): [View Comment](https://github.com/rong-xiaoli/ArisuBot/issues/67#issuecomment-2581989735)
-10. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/d7d4a2ba84eec46e487b17393e7508531e9c8bf9)
+1. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/f666fdc7b57fc44b51637116b56f395d80bfda60)
+2. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/604845b1e6549495ea243f7c24183ea01d44f863)
+3. 🔀 Merged [PR #78](https://github.com/rong-xiaoli/ArisuBot/pull/78) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+4. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/604845b1e6549495ea243f7c24183ea01d44f863)
+5. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/32436fddfba3ffda7ab3011602832638d0303717)
+6. 📥 Opened [PR #78](https://github.com/rong-xiaoli/ArisuBot/pull/78) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+7. 🗑️ Deleted a branch `feat/AutoAccept` in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+8. 🗣 Commented on issue [#74](https://github.com/rong-xiaoli/ArisuBot/issues/74) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot): [View Comment](https://github.com/rong-xiaoli/ArisuBot/issues/74#issuecomment-2585370739)
+9. ❌ Closed an issue [#74](https://github.com/rong-xiaoli/ArisuBot/issues/74) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+10. ❌ Closed an issue [#73](https://github.com/rong-xiaoli/ArisuBot/issues/73) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
 <!--END_SECTION:activity-->
