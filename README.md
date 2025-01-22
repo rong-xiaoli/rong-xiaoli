@@ -63,14 +63,14 @@ textmate          8 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/ec92bede72f6129f71d6e7dd9e25db6777850faa)
-2. 🗑️ Deleted a branch `remove-spamming-log` in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-3. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/d9776e8ba89430ecbb1fe98c82b805d33b276b41)
-4. 🔀 Merged [PR #95](https://github.com/rong-xiaoli/ArisuBot/pull/95) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-5. 📥 Opened [PR #95](https://github.com/rong-xiaoli/ArisuBot/pull/95) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-6. ➕ Created a new branch [`remove-spamming-log`](https://github.com/rong-xiaoli/ArisuBot/tree/remove-spamming-log) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-7. 🗑️ Deleted a branch `93-osu-username` in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-8. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/b10adb74c02164e5c501540582b25bfae27f2fea)
-9. ❌ Closed an issue [#93](https://github.com/rong-xiaoli/ArisuBot/issues/93) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-10. 🔀 Merged [PR #94](https://github.com/rong-xiaoli/ArisuBot/pull/94) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/11edb59bcd38769452155cf0b1907329f01a194c)
+2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/ec92bede72f6129f71d6e7dd9e25db6777850faa)
+3. 🗑️ Deleted a branch `remove-spamming-log` in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+4. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/d9776e8ba89430ecbb1fe98c82b805d33b276b41)
+5. 🔀 Merged [PR #95](https://github.com/rong-xiaoli/ArisuBot/pull/95) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+6. 📥 Opened [PR #95](https://github.com/rong-xiaoli/ArisuBot/pull/95) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+7. ➕ Created a new branch [`remove-spamming-log`](https://github.com/rong-xiaoli/ArisuBot/tree/remove-spamming-log) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+8. 🗑️ Deleted a branch `93-osu-username` in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+9. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/b10adb74c02164e5c501540582b25bfae27f2fea)
+10. ❌ Closed an issue [#93](https://github.com/rong-xiaoli/ArisuBot/issues/93) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
 <!--END_SECTION:activity-->
