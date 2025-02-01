@@ -63,14 +63,14 @@ Other             14 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/68c02cb62effad88a262af0fa3074ceb3ecc12db)
-2. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/5c0e01abaa39293de4131a525bce2ccdb79d4856)
-3. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/e2f78d431a5c9bd9e45c678ec174700d69ac4e8c)
-4. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/0a2bcb40b7e7236f6492ee7a9a8fb411882a0bd2)
-5. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/a4faab25a88323b34d3c55136a42315360119cbe)
-6. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/ce565aae7a33fc5881162303f023fa1717b22327)
-7. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/e1cdeba49a2f438a97f50a3c10bfaaaeaaa8505a)
-8. ➕ Created a new branch [`helldivers2api`](https://github.com/rong-xiaoli/ArisuBot/tree/helldivers2api) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-9. 🆕 Opened an issue [#98](https://github.com/rong-xiaoli/ArisuBot/issues/98) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-10. 🆕 Opened an issue [#97](https://github.com/rong-xiaoli/ArisuBot/issues/97) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/cbfa0b1b1091704a354afb22ffd3aafb64492714)
+2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/68c02cb62effad88a262af0fa3074ceb3ecc12db)
+3. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/5c0e01abaa39293de4131a525bce2ccdb79d4856)
+4. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/e2f78d431a5c9bd9e45c678ec174700d69ac4e8c)
+5. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/0a2bcb40b7e7236f6492ee7a9a8fb411882a0bd2)
+6. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/a4faab25a88323b34d3c55136a42315360119cbe)
+7. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/ce565aae7a33fc5881162303f023fa1717b22327)
+8. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/e1cdeba49a2f438a97f50a3c10bfaaaeaaa8505a)
+9. ➕ Created a new branch [`helldivers2api`](https://github.com/rong-xiaoli/ArisuBot/tree/helldivers2api) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+10. 🆕 Opened an issue [#98](https://github.com/rong-xiaoli/ArisuBot/issues/98) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
 <!--END_SECTION:activity-->
