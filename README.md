@@ -63,14 +63,14 @@ C#                13 mins         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 📝 Committed to a private repo
-3. ➕ Created a new branch `dev` in a private repo
-4. ➕ Created a new branch `master` in a private repo
-5. 🎉 Created a new private repository
-6. 🗑️ Deleted a branch `petpet` in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-7. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/46103ebf4a5754ca954e1c440947ee9b433e724b)
-8. 🔀 Merged [PR #108](https://github.com/rong-xiaoli/ArisuBot/pull/108) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-9. 📝 Updated 1 page in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-10. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/93f4d05ce5093388a62caf6d20656ebd9a06fff9)
+1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/3fb1f99a8b3cb5a14a770345bffe76ca8a9c363e)
+2. ➕ Created a new branch `master` in a private repo
+3. 🎉 Created a new private repository
+4. 🎉 Created a new private repository
+5. 📝 Committed to a private repo
+6. 📝 Committed to a private repo
+7. ➕ Created a new branch `dev` in a private repo
+8. ➕ Created a new branch `master` in a private repo
+9. 🎉 Created a new private repository
+10. 🗑️ Deleted a branch `petpet` in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
 <!--END_SECTION:activity-->
