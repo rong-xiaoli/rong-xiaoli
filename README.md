@@ -63,14 +63,14 @@ YAML              9 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/3fb1f99a8b3cb5a14a770345bffe76ca8a9c363e)
-2. ➕ Created a new branch `master` in a private repo
-3. 🎉 Created a new private repository
+1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/6456b0088c88ec55cfdff9b8da90e52864f8bb72)
+2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/3fb1f99a8b3cb5a14a770345bffe76ca8a9c363e)
+3. ➕ Created a new branch `master` in a private repo
 4. 🎉 Created a new private repository
-5. 📝 Committed to a private repo
+5. 🎉 Created a new private repository
 6. 📝 Committed to a private repo
-7. ➕ Created a new branch `dev` in a private repo
-8. ➕ Created a new branch `master` in a private repo
-9. 🎉 Created a new private repository
-10. 🗑️ Deleted a branch `petpet` in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+7. 📝 Committed to a private repo
+8. ➕ Created a new branch `dev` in a private repo
+9. ➕ Created a new branch `master` in a private repo
+10. 🎉 Created a new private repository
 <!--END_SECTION:activity-->
