@@ -63,14 +63,14 @@ Markdown         12 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/6456b0088c88ec55cfdff9b8da90e52864f8bb72)
-2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/3fb1f99a8b3cb5a14a770345bffe76ca8a9c363e)
-3. ➕ Created a new branch `master` in a private repo
-4. 🎉 Created a new private repository
-5. 🎉 Created a new private repository
-6. 📝 Committed to a private repo
-7. 📝 Committed to a private repo
-8. ➕ Created a new branch `dev` in a private repo
+1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/91ccea5baff1a65051a050fd3ae7bed0d8a86702)
+2. ➕ Created a new branch `master` in a private repo
+3. 🎉 Created a new private repository
+4. 📝 Committed to a private repo
+5. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/fae8d2f4015d89722371da1d3a723146fd3e7007)
+6. ➕ Created a new branch `ping` in a private repo
+7. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/6456b0088c88ec55cfdff9b8da90e52864f8bb72)
+8. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/3fb1f99a8b3cb5a14a770345bffe76ca8a9c363e)
 9. ➕ Created a new branch `master` in a private repo
 10. 🎉 Created a new private repository
 <!--END_SECTION:activity-->
