@@ -63,14 +63,14 @@ JSON         0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch `main` in a private repo
-2. 🎉 Created a new private repository
-3. 📝 Committed to a private repo
-4. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/86f45e09dbdd8c78cce6ecfc8c64100edeb4c7ea)
-5. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/f362a4f951e1a290c42f80fdeeaa80da4a1bd125)
-6. ➕ Created a new branch [`help`](https://github.com/rong-xiaoli/ArisuBot/tree/help) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
-7. ⭐ Starred [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
-8. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/c1ac782dcadfb109f9bd2d39e30f09bade7ee1eb)
-9. 📝 Committed to a private repo
-10. 📝 Committed to [rong-xiaoli/hexo-theme-redefine-aplayer-autoplay](https://github.com/rong-xiaoli/hexo-theme-redefine-aplayer-autoplay/commit/e2e8254dea04f2eee53369918a0206dcd2061d5a)
+1. 📥 Opened [PR #119](https://github.com/rong-xiaoli/ArisuBot/pull/119) in [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot)
+2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/124b9b68fea723c80d77fd31da6f095626fabf26)
+3. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/79ad121e5b4bfd82ab842f0e2a4a51c3f769ac82)
+4. 📝 Committed to a private repo
+5. 📝 Committed to a private repo
+6. ➕ Created a new branch `main` in a private repo
+7. 🎉 Created a new private repository
+8. 📝 Committed to a private repo
+9. 📝 Committed to [rong-xiaoli/ArisuBot](https://github.com/rong-xiaoli/ArisuBot/commit/86f45e09dbdd8c78cce6ecfc8c64100edeb4c7ea)
+10. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/f362a4f951e1a290c42f80fdeeaa80da4a1bd125)
 <!--END_SECTION:activity-->
