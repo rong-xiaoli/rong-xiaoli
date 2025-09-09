@@ -65,5 +65,4 @@ Groovy   0 secs          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 4. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/02aa35e3c0c0a39d5e9992dd654660f8ab527a92)
 5. ⭐ Starred [0voice/Campus_recruitment_interview_questions](https://github.com/0voice/Campus_recruitment_interview_questions)
 6. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/2571bb645a4d75b077bb2d2c8e5d2347846d1239)
-7. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/c80034d0a77afa51f6f7200f8036ac99782eacb9)
 <!--END_SECTION:activity-->
