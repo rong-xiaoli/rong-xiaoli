@@ -67,5 +67,4 @@ Groovy   0 secs          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 6. 🎉 Created a new repository [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork)
 7. ⭐ Starred [KawaiiGpp/AkiraCoreKotlin](https://github.com/KawaiiGpp/AkiraCoreKotlin)
 8. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/a394fbde1d1a036dbb93b93006c4cecd8124a360)
-9. ⭐ Starred [Solsynth/Solian](https://github.com/Solsynth/Solian)
 <!--END_SECTION:activity-->
