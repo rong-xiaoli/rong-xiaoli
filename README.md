@@ -59,12 +59,13 @@ No activity tracked
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 📝 Committed to [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/commit/f8e1fe10f8bc3fe22e2f9c7dae3e15f60b4abac3)
-3. 📝 Committed to [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/commit/9cd326b82a6dc185073addaf4e2c99c1fa7ae152)
-4. 📝 Committed to [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/commit/fc81b5a9b99e276f070922e9b21477fdcee0f011)
-5. ➕ Created a new branch [`dev`](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/tree/dev) in [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork)
-6. ➕ Created a new branch [`master`](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/tree/master) in [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork)
-7. 🎉 Created a new repository [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork)
-8. ⭐ Starred [KawaiiGpp/AkiraCoreKotlin](https://github.com/KawaiiGpp/AkiraCoreKotlin)
+1. ⭐ Starred [UNIkeEN/SJMCL](https://github.com/UNIkeEN/SJMCL)
+2. 📝 Committed to a private repo
+3. 📝 Committed to [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/commit/f8e1fe10f8bc3fe22e2f9c7dae3e15f60b4abac3)
+4. 📝 Committed to [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/commit/9cd326b82a6dc185073addaf4e2c99c1fa7ae152)
+5. 📝 Committed to [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/commit/fc81b5a9b99e276f070922e9b21477fdcee0f011)
+6. 🎉 Created a new branch [`dev`](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/tree/dev) in [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork)
+7. 🎉 Created a new branch [`master`](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/tree/master) in [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork)
+8. 🎉 Created a new repository [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork)
+9. ⭐ Starred [KawaiiGpp/AkiraCoreKotlin](https://github.com/KawaiiGpp/AkiraCoreKotlin)
 <!--END_SECTION:activity-->
