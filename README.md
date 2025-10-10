@@ -68,5 +68,4 @@ No activity tracked
 7. 🎉 Created a new branch [`dev`](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/tree/dev) in [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork)
 8. 🎉 Created a new branch [`master`](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/tree/master) in [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork)
 9. 🎉 Created a new repository [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork)
-10. ⭐ Starred [KawaiiGpp/AkiraCoreKotlin](https://github.com/KawaiiGpp/AkiraCoreKotlin)
 <!--END_SECTION:activity-->
