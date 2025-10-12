@@ -63,10 +63,4 @@ No activity tracked
 2. 🆕 Opened an issue [#1052](https://github.com/UNIkeEN/SJMCL/issues/1052) in [UNIkeEN/SJMCL](https://github.com/UNIkeEN/SJMCL)
 3. ⭐ Starred [UNIkeEN/SJMCL](https://github.com/UNIkeEN/SJMCL)
 4. 📝 Committed to a private repo
-5. 📝 Committed to [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/commit/f8e1fe10f8bc3fe22e2f9c7dae3e15f60b4abac3)
-6. 📝 Committed to [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/commit/9cd326b82a6dc185073addaf4e2c99c1fa7ae152)
-7. 📝 Committed to [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/commit/fc81b5a9b99e276f070922e9b21477fdcee0f011)
-8. 🎉 Created a new branch [`dev`](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/tree/dev) in [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork)
-9. 🎉 Created a new branch [`master`](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork/tree/master) in [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork)
-10. 🎉 Created a new repository [rong-xiaoli/Mindspore-LLM-GroupWork](https://github.com/rong-xiaoli/Mindspore-LLM-GroupWork)
 <!--END_SECTION:activity-->
