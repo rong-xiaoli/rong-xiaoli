@@ -68,5 +68,4 @@ No activity tracked
 7. 📝 Committed to a private repo
 8. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/fbe7f930746f384a0342f12471f44e06c2b98ae6)
 9. 📝 Committed to a private repo
-10. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/24a781745e139fc2697565f00090f8c972b8e34d)
 <!--END_SECTION:activity-->
