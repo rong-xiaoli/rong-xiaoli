@@ -63,10 +63,13 @@ Properties        1 min           🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/cbd71594a7b2d61c0b38568c296982c60b927a62)
-2. 🎉 Created a new branch `main` in a private repo
-3. 📝 Committed to a private repo
-4. 🏷️ Added a label to an issue [#1052](https://github.com/UNIkeEN/SJMCL/issues/1052) in [UNIkeEN/SJMCL](https://github.com/UNIkeEN/SJMCL)
-5. 🆕 Opened an issue [#1052](https://github.com/UNIkeEN/SJMCL/issues/1052) in [UNIkeEN/SJMCL](https://github.com/UNIkeEN/SJMCL)
-6. ⭐ Starred [UNIkeEN/SJMCL](https://github.com/UNIkeEN/SJMCL)
+1. 📝 Committed to [rong-xiaoli/hass-addon-frpc](https://github.com/rong-xiaoli/hass-addon-frpc/commit/d06bd832ddbfa828aa46cb9b1f33f1603f474c18)
+2. 📝 Committed to [rong-xiaoli/hass-addon-frpc](https://github.com/rong-xiaoli/hass-addon-frpc/commit/6460f05646e6af21677786f7839245a325419a0b)
+3. 🎉 Created a new branch [`dev`](https://github.com/rong-xiaoli/hass-addon-frpc/tree/dev) in [rong-xiaoli/hass-addon-frpc](https://github.com/rong-xiaoli/hass-addon-frpc)
+4. 🎉 Created a new branch [`main`](https://github.com/rong-xiaoli/hass-addon-frpc/tree/main) in [rong-xiaoli/hass-addon-frpc](https://github.com/rong-xiaoli/hass-addon-frpc)
+5. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/cbd71594a7b2d61c0b38568c296982c60b927a62)
+6. 🎉 Created a new branch `main` in a private repo
+7. 📝 Committed to a private repo
+8. 🏷️ Added a label to an issue [#1052](https://github.com/UNIkeEN/SJMCL/issues/1052) in [UNIkeEN/SJMCL](https://github.com/UNIkeEN/SJMCL)
+9. 🆕 Opened an issue [#1052](https://github.com/UNIkeEN/SJMCL/issues/1052) in [UNIkeEN/SJMCL](https://github.com/UNIkeEN/SJMCL)
 <!--END_SECTION:activity-->
