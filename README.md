@@ -64,13 +64,13 @@ Vue.js            49 mins         🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
-2. 🎉 Created a new branch `dev` in a private repo
-3. 🎉 Created a new branch `back/feat/database` in a private repo
-4. 🎉 Created a new branch `master` in a private repo
-5. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/a1fcebbbed9a603593da5ee87c59afcd4239d3f5)
-6. 🗣 Commented on issue [#2](https://github.com/AImiHoYo/Heytea-Painter/issues/2) in [AImiHoYo/Heytea-Painter](https://github.com/AImiHoYo/Heytea-Painter): [View Comment](https://github.com/AImiHoYo/Heytea-Painter/issues/2#issuecomment-3514739391)
-7. ❌ Closed an issue [#2](https://github.com/AImiHoYo/Heytea-Painter/issues/2) in [AImiHoYo/Heytea-Painter](https://github.com/AImiHoYo/Heytea-Painter)
-8. 🗣 Commented on a review of [PR #1](https://github.com/AImiHoYo/Heytea-Painter/pull/1) in [AImiHoYo/Heytea-Painter](https://github.com/AImiHoYo/Heytea-Painter): [View Comment](https://github.com/AImiHoYo/Heytea-Painter/pull/1#pullrequestreviewcomment-2512488892)
-9. 🗣 Commented on issue [#1](https://github.com/AImiHoYo/Heytea-Painter/issues/1) in [AImiHoYo/Heytea-Painter](https://github.com/AImiHoYo/Heytea-Painter): [View Comment](https://github.com/AImiHoYo/Heytea-Painter/issues/1#issuecomment-3514571792)
-10. 📝 Committed to [rong-xiaoli/Heytea-Painter-AutoPack](https://github.com/rong-xiaoli/Heytea-Painter-AutoPack/commit/409124225f93097d5aa0175ff48fc8ba95713861)
+2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/9dc28e5255755a3edabca36f3cd1904833afffd9)
+3. 📝 Committed to a private repo
+4. 📝 Committed to a private repo
+5. 📝 Committed to a private repo
+6. 📝 Committed to a private repo
+7. 🎉 Created a new branch `front/feat/basics` in a private repo
+8. 📝 Committed to a private repo
+9. 🎉 Created a new branch `dev` in a private repo
+10. 🎉 Created a new branch `back/feat/database` in a private repo
 <!--END_SECTION:activity-->
