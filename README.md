@@ -63,14 +63,14 @@ Java Properties                    1 hr 48 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/aa20ed249bc264411aca10443f07c6ebdb7919be)
-2. 📝 Committed to a private repo
-3. 📝 Committed to a private repo
-4. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/dfd23f28eefb831fddd7f8c8b82040f1333ff09e)
-5. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/a78be5a951cd3cf795703182133320bd8413f531)
-6. 📝 Committed to a private repo
-7. 📝 Committed to a private repo
+1. 📝 Committed to [rong-xiaoli/TrendRadar-deploy](https://github.com/rong-xiaoli/TrendRadar-deploy/commit/cab3156a299cee8a673236ecea2cb935b212d730)
+2. 📝 Committed to [rong-xiaoli/TrendRadar-deploy](https://github.com/rong-xiaoli/TrendRadar-deploy/commit/07c9633ca48350db8831c39437d0c752d37858e6)
+3. 📝 Committed to [rong-xiaoli/TrendRadar-deploy](https://github.com/rong-xiaoli/TrendRadar-deploy/commit/5a5796ad2fa2e5a9cbc0aab4a648a4143aa905db)
+4. 🍴 Forked [rong-xiaoli/TrendRadar-deploy](https://github.com/rong-xiaoli/TrendRadar-deploy)
+5. ⭐ Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+6. 🔔 Watching [pillar/trendradar](https://github.com/pillar/trendradar)
+7. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/6eaea09b118a659e8a308dc0b2c81835edc58693)
 8. 📝 Committed to a private repo
-9. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/1529d647b73d7bedeedb0f7b33a9edf87c314647)
+9. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/9c22c2e87c5cc13445e74f5fa58abc6744abb3cc)
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
