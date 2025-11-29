@@ -63,14 +63,14 @@ Java Properties                    1 hr 19 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/14eda4e812546879ff094d0c32beb3f88c73a894)
-2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/6ad9651bcfd78dab46574b52790c676f814dac93)
-3. 📝 Committed to [rong-xiaoli/TrendRadar-deploy](https://github.com/rong-xiaoli/TrendRadar-deploy/commit/c7786c8e77de35f75c10a9bc4566ef71b86697a1)
-4. 📝 Committed to [rong-xiaoli/TrendRadar-deploy](https://github.com/rong-xiaoli/TrendRadar-deploy/commit/cab3156a299cee8a673236ecea2cb935b212d730)
-5. 📝 Committed to [rong-xiaoli/TrendRadar-deploy](https://github.com/rong-xiaoli/TrendRadar-deploy/commit/07c9633ca48350db8831c39437d0c752d37858e6)
-6. 📝 Committed to [rong-xiaoli/TrendRadar-deploy](https://github.com/rong-xiaoli/TrendRadar-deploy/commit/5a5796ad2fa2e5a9cbc0aab4a648a4143aa905db)
-7. 🍴 Forked [rong-xiaoli/TrendRadar-deploy](https://github.com/rong-xiaoli/TrendRadar-deploy)
-8. ⭐ Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
-9. 🔔 Watching [pillar/trendradar](https://github.com/pillar/trendradar)
-10. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/6eaea09b118a659e8a308dc0b2c81835edc58693)
+1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/5b8d7d31d8c7eb29c2359bbea64057c1f762e93e)
+2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/14eda4e812546879ff094d0c32beb3f88c73a894)
+3. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/6ad9651bcfd78dab46574b52790c676f814dac93)
+4. 📝 Committed to [rong-xiaoli/TrendRadar-deploy](https://github.com/rong-xiaoli/TrendRadar-deploy/commit/c7786c8e77de35f75c10a9bc4566ef71b86697a1)
+5. 📝 Committed to [rong-xiaoli/TrendRadar-deploy](https://github.com/rong-xiaoli/TrendRadar-deploy/commit/cab3156a299cee8a673236ecea2cb935b212d730)
+6. 📝 Committed to [rong-xiaoli/TrendRadar-deploy](https://github.com/rong-xiaoli/TrendRadar-deploy/commit/07c9633ca48350db8831c39437d0c752d37858e6)
+7. 📝 Committed to [rong-xiaoli/TrendRadar-deploy](https://github.com/rong-xiaoli/TrendRadar-deploy/commit/5a5796ad2fa2e5a9cbc0aab4a648a4143aa905db)
+8. 🍴 Forked [rong-xiaoli/TrendRadar-deploy](https://github.com/rong-xiaoli/TrendRadar-deploy)
+9. ⭐ Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+10. 🔔 Watching [pillar/trendradar](https://github.com/pillar/trendradar)
 <!--END_SECTION:activity-->
