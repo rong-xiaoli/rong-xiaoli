@@ -63,14 +63,14 @@ Java Properties                    1 hr 19 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/7a01dbb6534e78639c4c62d283c7f0f72aa748c7)
-2. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/9288bc4e43d4c11a285f2ce634cbcf2dd8cb8ae2)
-3. 📝 Committed to a private repo
+1. 📝 Committed to a private repo
+2. 📝 Committed to a private repo
+3. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/9892df08554e5950508f6a7f42498b7a2f7de0bd)
 4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
-6. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/440d6c4da6f276ceb7053fc9442371fc6dc22294)
-7. 📝 Committed to a private repo
-8. 📝 Committed to a private repo
-9. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/94163c8fb8cc4af6cf12500723ff58045c981080)
-10. ⭐ Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
+6. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/56ff73111c87b2bd200b518ea1717eb7c68821ab)
+7. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/7a01dbb6534e78639c4c62d283c7f0f72aa748c7)
+8. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/9288bc4e43d4c11a285f2ce634cbcf2dd8cb8ae2)
+9. 📝 Committed to a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
