@@ -63,14 +63,14 @@ Java Properties                    1 hr 19 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/743a39269c0aca32840d052bc8c94840a3b6e848)
-2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/8aaf9641ce99da808417dd1c616753567abf22a6)
-3. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/0adc12aaca8edaecf01ce2297f8bd1546b3c148d)
-4. 📝 Committed to a private repo
+1. 📝 Committed to a private repo
+2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/743a39269c0aca32840d052bc8c94840a3b6e848)
+3. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/8aaf9641ce99da808417dd1c616753567abf22a6)
+4. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/0adc12aaca8edaecf01ce2297f8bd1546b3c148d)
 5. 📝 Committed to a private repo
-6. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/9892df08554e5950508f6a7f42498b7a2f7de0bd)
-7. 📝 Committed to a private repo
+6. 📝 Committed to a private repo
+7. 📝 Committed to [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/9892df08554e5950508f6a7f42498b7a2f7de0bd)
 8. 📝 Committed to a private repo
-9. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/56ff73111c87b2bd200b518ea1717eb7c68821ab)
-10. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/7a01dbb6534e78639c4c62d283c7f0f72aa748c7)
+9. 📝 Committed to a private repo
+10. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/56ff73111c87b2bd200b518ea1717eb7c68821ab)
 <!--END_SECTION:activity-->
