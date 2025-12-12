@@ -63,14 +63,14 @@ Java Properties                    1 hr 1 min      🟨⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/55fc2d9cb724a29ed215aa714ba92bcad596a135)
-2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/0138ae576c85563d32da71b84c9fe98af3c3e23a)
-3. 📝 Committed to a private repo
-4. 📝 Committed to a private repo
-5. 📝 Committed to a private repo
-6. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/c244b2cfd02c1041472105cb0992a3c507c2a43e)
+1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/c017f3e2af9a13550ef436bc1f2d1196d355e396)
+2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/f46cebd4fab8c20c430977e16e93b401a1001128)
+3. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/afc027b1e45f589116206608241c8f557a659f2e)
+4. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/323aa835c910e78d0d973fb8d8a8533ed7a54d86)
+5. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/55fc2d9cb724a29ed215aa714ba92bcad596a135)
+6. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/0138ae576c85563d32da71b84c9fe98af3c3e23a)
 7. 📝 Committed to a private repo
-8. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/743a39269c0aca32840d052bc8c94840a3b6e848)
-9. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/8aaf9641ce99da808417dd1c616753567abf22a6)
-10. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/0adc12aaca8edaecf01ce2297f8bd1546b3c148d)
+8. 📝 Committed to a private repo
+9. 📝 Committed to a private repo
+10. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/c244b2cfd02c1041472105cb0992a3c507c2a43e)
 <!--END_SECTION:activity-->
