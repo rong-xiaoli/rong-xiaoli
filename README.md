@@ -63,14 +63,14 @@ SQL               9 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/64314cde5c149ce746d1c4cb5f62a79c8a663188)
-2. 🍴 Forked [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine)
-3. 👤 Unassigned an issue in a private repo
-4. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/1796eb52efc7d3459cef3b849d3867faceb1cd91)
-5. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/b3217773d8eb32853a9a5c381723b1241f669124)
-6. 📝 Committed to a private repo
-7. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/3b6fb06f8dba634d3e6cf495b277a29992b6f9ea)
-8. 📝 Committed to a private repo
-9. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/1eed9a55d5cbfcfbc41d07662f705574f85a94a2)
-10. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/761db4f688242eb18c86287c0f30d03a6431e7ab)
+1. 📝 Committed to a private repo
+2. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/74a564a6da66ae1198743cf105c472d8f780ae62)
+3. 📝 Committed to [rong-xiaoli/OpenRefine-Issue6814](https://github.com/rong-xiaoli/OpenRefine-Issue6814/commit/17923c984fa87c8bae518d2c7ef97675753e749a)
+4. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/64314cde5c149ce746d1c4cb5f62a79c8a663188)
+5. 🍴 Forked [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine)
+6. 👤 Unassigned an issue in a private repo
+7. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/1796eb52efc7d3459cef3b849d3867faceb1cd91)
+8. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/b3217773d8eb32853a9a5c381723b1241f669124)
+9. 📝 Committed to a private repo
+10. 📝 Committed to [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/3b6fb06f8dba634d3e6cf495b277a29992b6f9ea)
 <!--END_SECTION:activity-->
