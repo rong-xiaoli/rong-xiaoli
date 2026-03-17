@@ -63,14 +63,14 @@ TOML       1 min                 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi)
-2. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/74a89a6c403e04151233de31a7312f0c55f7c9f2)
-3. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/b34fb6e185a74b9ad2cb2037c7fabc6ea9b39a07)
-4. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/b5ed61add858c2fc76c5d258859adee746c6e0b8)
-5. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/9aa1ff5b3f00fbd1d0710c0003cf7b90a16e3741)
-6. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/6565297e442a99ac25b8dda1404eed769d287d03)
-7. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/5a4e9c1bf77dc7bcfbb1ce237d13c76603e94d36)
-8. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/24af63ea4c3a1f81ff8e4750fbf05c94d632b10f)
-9. 📝 Committed to deploy in a private repository
-10. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/3e6257361139e0f7f1f0741337c32a126207cc34)
+1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/c7bb5acc5f6439996f624392ce3c617691511889)
+2. 🍴 Forked [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi)
+3. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/74a89a6c403e04151233de31a7312f0c55f7c9f2)
+4. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/b34fb6e185a74b9ad2cb2037c7fabc6ea9b39a07)
+5. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/b5ed61add858c2fc76c5d258859adee746c6e0b8)
+6. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/9aa1ff5b3f00fbd1d0710c0003cf7b90a16e3741)
+7. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/6565297e442a99ac25b8dda1404eed769d287d03)
+8. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/5a4e9c1bf77dc7bcfbb1ce237d13c76603e94d36)
+9. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/24af63ea4c3a1f81ff8e4750fbf05c94d632b10f)
+10. 📝 Committed to deploy in a private repository
 <!--END_SECTION:activity-->
