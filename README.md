@@ -63,14 +63,14 @@ YAML         25 mins               🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch master in a private repository
-2. Added a private repository
-3. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/fa686e84330432204918b0dc4fd2166b328612e9)
-4. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/a78c79f6f5687b66f43cca55cf444cc3bc77b107)
-5. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/88c522547c32a66145f7cefdefa964d86243fd94)
-6. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/fba68f0af352c76789624bd0e929db1396315f89)
-7. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/2b198f47c28562a1bc8558d3f848ca16958f3bad)
-8. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/62565f400b3a199664261a05266de97eee6b13cd)
-9. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/57843434ae0213734b2b2e388e34e37b5d8debc9)
-10. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/c7bb5acc5f6439996f624392ce3c617691511889)
+1. 📝 Committed to feat/backend/init in a private repository
+2. 📝 Committed to feat/backend/init in a private repository
+3. 🎉 Created a new branch feat/backend/init in a private repository
+4. 🎉 Created a new branch dev in a private repository
+5. 🎉 Created a new branch feat/frontend/init in a private repository
+6. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/bc4a2a8570e84c9666dd0fe7533cc38658f40110)
+7. 🎉 Created a new branch master in a private repository
+8. Added a private repository
+9. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/fa686e84330432204918b0dc4fd2166b328612e9)
+10. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/a78c79f6f5687b66f43cca55cf444cc3bc77b107)
 <!--END_SECTION:activity-->
