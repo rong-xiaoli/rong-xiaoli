@@ -34,12 +34,12 @@ Blog: [容小狸的博客 链接](https://blog.rongxiaoli.top)
 
 状态和统计
 ---
-如小组件所示，我是废物，但是如果不嫌弃的话，有什么要帮忙的，叫我一声应该就会答应了。
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rong-xiaoli">
+有什么要帮忙的，叫我一声应该就会答应了。
+<img align="center" src="https://github-readme-stats-murex-seven-66.vercel.app/api?username=rong-xiaoli">
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=rong-xiaoli&column=5&theme=dark&no-frame=true">
+<img align="center" src="https://github-profile-trophy-liard-delta.vercel.app/?username=rong-xiaoli&column=5&theme=dark&no-frame=true">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rong-xiaoli&hide=javascript,html,css">
+<img align="center" src="https://github-readme-stats-murex-seven-66.vercel.app/api/top-langs/?username=rong-xiaoli&hide=javascript,html,css">
 
 <!--START_SECTION:waka-->
 
