@@ -64,14 +64,14 @@ Java              38 mins               🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/41aa9fcca595850ba8e6d7e32dd7f70d5b1a1383)
-2. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/f03172462a470f1b955011fb2bb1492d29bbf0b3)
-3. 📝 Committed to writing in a private repository
-4. 📝 Committed to deploy in a private repository
-5. 🗣 Commented on PR in a private repository
+1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/797948c8a0ecc80d2a9acb65bff75d9b63822259)
+2. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/41aa9fcca595850ba8e6d7e32dd7f70d5b1a1383)
+3. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/f03172462a470f1b955011fb2bb1492d29bbf0b3)
+4. 📝 Committed to writing in a private repository
+5. 📝 Committed to deploy in a private repository
 6. 🗣 Commented on PR in a private repository
-7. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/656d38514b0e96db456119f19528b31800b74c28)
-8. 📝 Committed to deploy in a private repository
-9. 📝 Committed to writing in a private repository
-10. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/b926ef95e57c233b78d0a79793340cc4c6c8049f)
+7. 🗣 Commented on PR in a private repository
+8. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/656d38514b0e96db456119f19528b31800b74c28)
+9. 📝 Committed to deploy in a private repository
+10. 📝 Committed to writing in a private repository
 <!--END_SECTION:activity-->
