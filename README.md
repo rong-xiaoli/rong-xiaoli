@@ -64,14 +64,14 @@ YAML              1 hr 5 mins           🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch main in a private repository
-2. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/09688d5825dff18ea7a27eaf9e403fa05d200405)
-3. 📝 Committed to deploy in a private repository
-4. 📝 Committed to writing in a private repository
-5. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/3fc4921b761ba613abca0dffd6bac5d3ed1b5e2c)
-6. 📝 Committed to deploy in a private repository
-7. 📝 Committed to writing in a private repository
+1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/b27d2e184b2b4b031e6172611d77826760edb959)
+2. 🎉 Created a new branch main in a private repository
+3. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/09688d5825dff18ea7a27eaf9e403fa05d200405)
+4. 📝 Committed to deploy in a private repository
+5. 📝 Committed to writing in a private repository
+6. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/3fc4921b761ba613abca0dffd6bac5d3ed1b5e2c)
+7. 📝 Committed to deploy in a private repository
 8. 📝 Committed to writing in a private repository
-9. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/d14a1b07e211855fdc8b175b2f2f448ed36b1438)
-10. 📝 Committed to deploy in a private repository
+9. 📝 Committed to writing in a private repository
+10. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/d14a1b07e211855fdc8b175b2f2f448ed36b1438)
 <!--END_SECTION:activity-->
