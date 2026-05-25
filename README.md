@@ -64,14 +64,14 @@ CSV          24 mins               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/9853e2affeea01ff19f5f98260d40a38434da0e6)
-2. 📝 Committed to writing in a private repository
+1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/9a52e382a4630e08ac77088c7dc11648abed0006)
+2. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/3bed42c2e8e642c17654ae63d16688a1d02836e6)
 3. 📝 Committed to writing in a private repository
-4. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/9ec2145959a4903fec66f5dde0457e5d4e40cbd1)
+4. 📝 Committed to deploy in a private repository
 5. 📝 Committed to deploy in a private repository
-6. 📝 Committed to deploy in a private repository
-7. 📝 Committed to writing in a private repository
-8. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/15835e525fd77d33b35aa196f6c357e684ce36b6)
-9. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/f7d34f9d96aa804836f31d27da2d0da435d5ff4c)
-10. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/a8de1fdfdee00f8b341d9b05a3a4be43ef96cc67)
+6. 📝 Committed to writing in a private repository
+7. 📝 Committed to deploy in a private repository
+8. 📝 Committed to master in [rong-xiaoli/hexo-redefine-title](https://github.com/rong-xiaoli/hexo-redefine-title/commit/c03d69518066124766f7ae6c5b8e95db48dbcae6)
+9. 📝 Committed to master in [rong-xiaoli/hexo-redefine-title](https://github.com/rong-xiaoli/hexo-redefine-title/commit/27ebcce57f8a337c425f29074addabaa72461d2c)
+10. 🔀 Merged PR #1 in [rong-xiaoli/hexo-redefine-title](https://github.com/rong-xiaoli/hexo-redefine-title/pull/1)
 <!--END_SECTION:activity-->
