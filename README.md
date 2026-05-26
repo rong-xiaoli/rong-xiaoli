@@ -64,14 +64,14 @@ CSV          24 mins               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/9a52e382a4630e08ac77088c7dc11648abed0006)
-2. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/3bed42c2e8e642c17654ae63d16688a1d02836e6)
-3. 📝 Committed to writing in a private repository
-4. 📝 Committed to deploy in a private repository
+1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/ede10273aca177689c8c89d637c06ea996274fb2)
+2. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/9a52e382a4630e08ac77088c7dc11648abed0006)
+3. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/3bed42c2e8e642c17654ae63d16688a1d02836e6)
+4. 📝 Committed to writing in a private repository
 5. 📝 Committed to deploy in a private repository
-6. 📝 Committed to writing in a private repository
-7. 📝 Committed to deploy in a private repository
-8. 📝 Committed to master in [rong-xiaoli/hexo-redefine-title](https://github.com/rong-xiaoli/hexo-redefine-title/commit/c03d69518066124766f7ae6c5b8e95db48dbcae6)
-9. 📝 Committed to master in [rong-xiaoli/hexo-redefine-title](https://github.com/rong-xiaoli/hexo-redefine-title/commit/27ebcce57f8a337c425f29074addabaa72461d2c)
-10. 🔀 Merged PR #1 in [rong-xiaoli/hexo-redefine-title](https://github.com/rong-xiaoli/hexo-redefine-title/pull/1)
+6. 📝 Committed to deploy in a private repository
+7. 📝 Committed to writing in a private repository
+8. 📝 Committed to deploy in a private repository
+9. 📝 Committed to master in [rong-xiaoli/hexo-redefine-title](https://github.com/rong-xiaoli/hexo-redefine-title/commit/c03d69518066124766f7ae6c5b8e95db48dbcae6)
+10. 📝 Committed to master in [rong-xiaoli/hexo-redefine-title](https://github.com/rong-xiaoli/hexo-redefine-title/commit/27ebcce57f8a337c425f29074addabaa72461d2c)
 <!--END_SECTION:activity-->
