@@ -64,14 +64,14 @@ JSON         48 mins               🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 🔔 Watching [unionofblackbean/superwy](https://github.com/unionofblackbean/superwy)
-2. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/ede10273aca177689c8c89d637c06ea996274fb2)
-3. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/9a52e382a4630e08ac77088c7dc11648abed0006)
-4. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/3bed42c2e8e642c17654ae63d16688a1d02836e6)
-5. 📝 Committed to writing in a private repository
-6. 📝 Committed to deploy in a private repository
-7. 📝 Committed to deploy in a private repository
-8. 📝 Committed to writing in a private repository
+1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/01c8346ade55671ba2f773b40edd06eeafb95680)
+2. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/2bbef0da744973c29f8afb47b56a95125a899c76)
+3. 🔔 Watching [unionofblackbean/superwy](https://github.com/unionofblackbean/superwy)
+4. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/ede10273aca177689c8c89d637c06ea996274fb2)
+5. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/9a52e382a4630e08ac77088c7dc11648abed0006)
+6. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/3bed42c2e8e642c17654ae63d16688a1d02836e6)
+7. 📝 Committed to writing in a private repository
+8. 📝 Committed to deploy in a private repository
 9. 📝 Committed to deploy in a private repository
-10. 📝 Committed to master in [rong-xiaoli/hexo-redefine-title](https://github.com/rong-xiaoli/hexo-redefine-title/commit/c03d69518066124766f7ae6c5b8e95db48dbcae6)
+10. 📝 Committed to writing in a private repository
 <!--END_SECTION:activity-->
