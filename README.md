@@ -64,14 +64,14 @@ JSON         59 mins               🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/01c8346ade55671ba2f773b40edd06eeafb95680)
-2. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/2bbef0da744973c29f8afb47b56a95125a899c76)
-3. 🔔 Watching [unionofblackbean/superwy](https://github.com/unionofblackbean/superwy)
-4. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/ede10273aca177689c8c89d637c06ea996274fb2)
-5. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/9a52e382a4630e08ac77088c7dc11648abed0006)
-6. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/3bed42c2e8e642c17654ae63d16688a1d02836e6)
-7. 📝 Committed to writing in a private repository
-8. 📝 Committed to deploy in a private repository
+1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/12f1a7e58678621d4064061c8a2d47edf13330ae)
+2. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/01c8346ade55671ba2f773b40edd06eeafb95680)
+3. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/2bbef0da744973c29f8afb47b56a95125a899c76)
+4. 🔔 Watching [unionofblackbean/superwy](https://github.com/unionofblackbean/superwy)
+5. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/ede10273aca177689c8c89d637c06ea996274fb2)
+6. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/9a52e382a4630e08ac77088c7dc11648abed0006)
+7. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/3bed42c2e8e642c17654ae63d16688a1d02836e6)
+8. 📝 Committed to writing in a private repository
 9. 📝 Committed to deploy in a private repository
-10. 📝 Committed to writing in a private repository
+10. 📝 Committed to deploy in a private repository
 <!--END_SECTION:activity-->
