@@ -63,14 +63,14 @@ Makefile   0 secs                ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/281f143294100a858815553feee1529420506301)
-2. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/6128cd22482fd1b3a8d392efb08f35cfe89eec5c)
-3. 📝 Committed to deploy in a private repository
-4. 📝 Committed to writing in a private repository
-5. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/0610a3e63199b527674b99407f8251af5dd4befe)
+1. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/e85ba9db33521c0c7e71ce3a5d15ade31d5aac5c)
+2. 📝 Committed to deploy in a private repository
+3. 📝 Committed to writing in a private repository
+4. ⭐ Starred [HCLonely/ArtitalkServer](https://github.com/HCLonely/ArtitalkServer)
+5. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/def7dd4bf19fcc1e5a382c129e35e599f7167f20)
 6. 📝 Committed to deploy in a private repository
 7. 📝 Committed to writing in a private repository
-8. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/09e255609e5573e02e508cf1ff0783cfae034d31)
-9. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/49a1b52dea10c7b3066ce7a461b668f993ca9b42)
+8. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/281f143294100a858815553feee1529420506301)
+9. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/6128cd22482fd1b3a8d392efb08f35cfe89eec5c)
 10. 📝 Committed to deploy in a private repository
 <!--END_SECTION:activity-->
