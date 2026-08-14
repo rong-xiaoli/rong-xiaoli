@@ -64,14 +64,14 @@ Python       7 mins                🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/2935adb459a6de32ef8c10ad07cc6e116e3ac167)
-2. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/e0c07256294cd4c259b48c975d332e92d6058437)
-3. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/932db4359c54bc01d610a641fd9f538d59d5a77d)
-4. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/adf35591d3dcfa2b44e009991d192e5099d285dd)
-5. 📝 Committed to deploy in a private repository
-6. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/37ea9cabdd6233a510dd1afa38c3dba27d82a565)
-7. 📝 Committed to deploy in a private repository
-8. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/573a95416696ffe3d4863f209d7ccfef4c9ac7b4)
-9. 📝 Committed to deploy in a private repository
-10. 📝 Committed to writing in a private repository
+1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/ec3c2003ca605470a62a5a91d4245af34c0a811f)
+2. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/2935adb459a6de32ef8c10ad07cc6e116e3ac167)
+3. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/e0c07256294cd4c259b48c975d332e92d6058437)
+4. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/932db4359c54bc01d610a641fd9f538d59d5a77d)
+5. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/adf35591d3dcfa2b44e009991d192e5099d285dd)
+6. 📝 Committed to deploy in a private repository
+7. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/37ea9cabdd6233a510dd1afa38c3dba27d82a565)
+8. 📝 Committed to deploy in a private repository
+9. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/573a95416696ffe3d4863f209d7ccfef4c9ac7b4)
+10. 📝 Committed to deploy in a private repository
 <!--END_SECTION:activity-->
