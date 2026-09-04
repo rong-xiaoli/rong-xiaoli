@@ -64,14 +64,14 @@ Python       7 mins                🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/978fe95b937f79eaaf99d22ee644f722231c37e3)
-2. ⭐ Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
-3. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/72e7b24828056ab4e979a8af392ce31bb9753b2c)
-4. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/553367fff6be5d323b5aba8970ff02bb8de87568)
-5. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/27ebbd092a42a6db66265512427cc447401aa609)
-6. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/e81e3459e24133072e59bc26516d628d8e2746ac)
-7. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/27fc626b6d1071222f366720858b061a0c057bd1)
-8. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/38b885eca06d39290f2983084acb2c2992efc35c)
-9. 📝 Committed to writing in a private repository
-10. 📝 Committed to deploy in a private repository
+1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/6a235781da85a3544a289da8e605c23acf35de92)
+2. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/978fe95b937f79eaaf99d22ee644f722231c37e3)
+3. ⭐ Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
+4. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/72e7b24828056ab4e979a8af392ce31bb9753b2c)
+5. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/553367fff6be5d323b5aba8970ff02bb8de87568)
+6. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/27ebbd092a42a6db66265512427cc447401aa609)
+7. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/e81e3459e24133072e59bc26516d628d8e2746ac)
+8. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/27fc626b6d1071222f366720858b061a0c057bd1)
+9. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/38b885eca06d39290f2983084acb2c2992efc35c)
+10. 📝 Committed to writing in a private repository
 <!--END_SECTION:activity-->
