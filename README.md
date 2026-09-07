@@ -64,14 +64,14 @@ Python       7 mins                🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/4cf52ef9af68757c9d2f38ded29adb6b6eb4e553)
-2. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/6a235781da85a3544a289da8e605c23acf35de92)
-3. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/978fe95b937f79eaaf99d22ee644f722231c37e3)
-4. ⭐ Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
-5. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/72e7b24828056ab4e979a8af392ce31bb9753b2c)
-6. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/553367fff6be5d323b5aba8970ff02bb8de87568)
-7. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/27ebbd092a42a6db66265512427cc447401aa609)
-8. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/e81e3459e24133072e59bc26516d628d8e2746ac)
-9. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/27fc626b6d1071222f366720858b061a0c057bd1)
-10. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/38b885eca06d39290f2983084acb2c2992efc35c)
+1. 📝 Committed to writing in a private repository
+2. 📝 Committed to deploy in a private repository
+3. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/4cf52ef9af68757c9d2f38ded29adb6b6eb4e553)
+4. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/6a235781da85a3544a289da8e605c23acf35de92)
+5. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/978fe95b937f79eaaf99d22ee644f722231c37e3)
+6. ⭐ Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
+7. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/72e7b24828056ab4e979a8af392ce31bb9753b2c)
+8. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/553367fff6be5d323b5aba8970ff02bb8de87568)
+9. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/27ebbd092a42a6db66265512427cc447401aa609)
+10. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/e81e3459e24133072e59bc26516d628d8e2746ac)
 <!--END_SECTION:activity-->
