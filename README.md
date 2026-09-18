@@ -61,14 +61,14 @@ YAML    12 mins               🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/522656908744cc38c0a44ec1767d6394fedc0e6c)
-2. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/48ed594f52a5b0e20eb09abcc958ec57e076a4e2)
-3. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/993ff788a41ae24684e3cf5ba0e4d85daa8a8a9e)
-4. ⭐ Starred [sjcabs/fly_connectome_data_tutorial](https://github.com/sjcabs/fly_connectome_data_tutorial)
-5. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/d388f0e9af3fdac9a4e628076414cc89c1ab5daf)
-6. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/3be53fc10d486482cfc239fbb5994e6240281436)
-7. 📝 Committed to writing in a private repository
-8. 📝 Committed to deploy in a private repository
-9. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/4cf52ef9af68757c9d2f38ded29adb6b6eb4e553)
-10. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/6a235781da85a3544a289da8e605c23acf35de92)
+1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/5bfddbd63ad9f845c2c3c2700455dee5605e11fc)
+2. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/522656908744cc38c0a44ec1767d6394fedc0e6c)
+3. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/48ed594f52a5b0e20eb09abcc958ec57e076a4e2)
+4. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/993ff788a41ae24684e3cf5ba0e4d85daa8a8a9e)
+5. ⭐ Starred [sjcabs/fly_connectome_data_tutorial](https://github.com/sjcabs/fly_connectome_data_tutorial)
+6. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/d388f0e9af3fdac9a4e628076414cc89c1ab5daf)
+7. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/3be53fc10d486482cfc239fbb5994e6240281436)
+8. 📝 Committed to writing in a private repository
+9. 📝 Committed to deploy in a private repository
+10. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/4cf52ef9af68757c9d2f38ded29adb6b6eb4e553)
 <!--END_SECTION:activity-->
