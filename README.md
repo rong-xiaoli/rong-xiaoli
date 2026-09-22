@@ -62,14 +62,14 @@ YAML       15 mins               🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/4e8a04aa3a8031670d0dfab8d51b56bde15a3b11)
-2. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/f2b12a5fb3fe07fe3f5542e218db7b9e3d363065)
-3. 📝 Committed to writing in a private repository
+1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/3dcc00ee39e2c732e3490d98650fbf0e56c31b65)
+2. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/4e8a04aa3a8031670d0dfab8d51b56bde15a3b11)
+3. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/f2b12a5fb3fe07fe3f5542e218db7b9e3d363065)
 4. 📝 Committed to writing in a private repository
-5. 📝 Committed to deploy in a private repository
-6. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/5bfddbd63ad9f845c2c3c2700455dee5605e11fc)
-7. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/522656908744cc38c0a44ec1767d6394fedc0e6c)
-8. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/48ed594f52a5b0e20eb09abcc958ec57e076a4e2)
-9. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/993ff788a41ae24684e3cf5ba0e4d85daa8a8a9e)
-10. ⭐ Starred [sjcabs/fly_connectome_data_tutorial](https://github.com/sjcabs/fly_connectome_data_tutorial)
+5. 📝 Committed to writing in a private repository
+6. 📝 Committed to deploy in a private repository
+7. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/5bfddbd63ad9f845c2c3c2700455dee5605e11fc)
+8. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/522656908744cc38c0a44ec1767d6394fedc0e6c)
+9. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/48ed594f52a5b0e20eb09abcc958ec57e076a4e2)
+10. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/993ff788a41ae24684e3cf5ba0e4d85daa8a8a9e)
 <!--END_SECTION:activity-->
