@@ -64,14 +64,14 @@ Markdown     16 mins               🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/f86778265ba8e8f36e46b553c838125fe4c6f0f7)
-2. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/297cfcb9401c281a6c5bce487133082d1f8a05bb)
-3. 📝 Committed to deploy in a private repository
-4. 📝 Committed to writing in a private repository
-5. 🍴 Forked a private repository
-6. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/36cdb4f25b550b49620d05b5288862de585b9b0d)
-7. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/08f71a508b8b7f3ef6fe2c201302299d805556ca)
-8. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/c46d95edab22be1fc894197a9fc147025e2c68e7)
-9. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/8e0b4bcec6dd63fb4895fd8f8d9d1ca30687273a)
-10. 🍴 Forked [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
+1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/a1715620e6563427efaac5fa9ef44ae729059b74)
+2. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/f86778265ba8e8f36e46b553c838125fe4c6f0f7)
+3. 📝 Committed to gh-pages in [rong-xiaoli/rong-xiaoli.github.io](https://github.com/rong-xiaoli/rong-xiaoli.github.io/commit/297cfcb9401c281a6c5bce487133082d1f8a05bb)
+4. 📝 Committed to deploy in a private repository
+5. 📝 Committed to writing in a private repository
+6. 🍴 Forked a private repository
+7. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/36cdb4f25b550b49620d05b5288862de585b9b0d)
+8. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/08f71a508b8b7f3ef6fe2c201302299d805556ca)
+9. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/c46d95edab22be1fc894197a9fc147025e2c68e7)
+10. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/8e0b4bcec6dd63fb4895fd8f8d9d1ca30687273a)
 <!--END_SECTION:activity-->
