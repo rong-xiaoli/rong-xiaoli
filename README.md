@@ -64,14 +64,14 @@ JSON         0 secs                ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch dev in a private repository
-2. 🗣 Commented on a review of PR in a private repository
-3. 🔎 Created PR in a private repository
+1. 📝 Committed to dev in a private repository
+2. 📝 Committed to dev in a private repository
+3. 🗣 Commented on a review of PR in a private repository
 4. 🔎 Created PR in a private repository
-5. 🗣 Commented on a review of PR in a private repository
-6. 🎉 Created a new branch main in a private repository
+5. 🔎 Created PR in a private repository
+6. 🗣 Commented on a review of PR in a private repository
 7. 👤 Assigned PR in a private repository
-8. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/e43c202c2d75c8c28a4fe4e9b32bcd2e17514a08)
-9. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/ec20efa5d7a3828dde18158b7ac4e9d94016a537)
-10. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/5247b61abca6ce3a9384955b0e670f90210d11b7)
+8. 🔎 Created PR in a private repository
+9. 🔎 Updated PR in a private repository
+10. 🔎 Created PR in a private repository
 <!--END_SECTION:activity-->
