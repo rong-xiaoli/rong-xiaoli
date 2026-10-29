@@ -64,14 +64,14 @@ Markdown     5 mins                🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to dev in a private repository
-2. 📝 Committed to dev in a private repository
-3. 🗣 Commented on a review of PR in a private repository
-4. 🔎 Created PR in a private repository
-5. 🔎 Created PR in a private repository
-6. 🗣 Commented on a review of PR in a private repository
-7. 👤 Assigned PR in a private repository
+1. 📝 Committed to master in [rong-xiaoli/rong-xiaoli](https://github.com/rong-xiaoli/rong-xiaoli/commit/089c1dfff2615263ed65f14e74239b73ac816f38)
+2. 🍴 Forked a private repository
+3. 🔎 Created PR in a private repository
+4. 🔎 Updated PR in a private repository
+5. 📝 Committed to dev in a private repository
+6. 📝 Committed to dev in a private repository
+7. 🗣 Commented on a review of PR in a private repository
 8. 🔎 Created PR in a private repository
-9. 🔎 Updated PR in a private repository
-10. 🔎 Created PR in a private repository
+9. 🔎 Created PR in a private repository
+10. 🗣 Commented on a review of PR in a private repository
 <!--END_SECTION:activity-->
